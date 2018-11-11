@@ -15,6 +15,6 @@ func main {
 		"foo": "bar",
 	})
 
-	l.Log("a log ling")
+	l.Log("a log line")
 }
 ```
